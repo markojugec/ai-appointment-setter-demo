@@ -35,12 +35,13 @@ At a high level, the assistant:
 
 ## Example flow (simplified)
 
+```
 Qualified lead
 → Readiness confirmation
 → Calendar presentation
 → Booking confirmation
 → Follow-up or reschedule path
-
+```
 
 
 The assistant prioritizes clarity and momentum while avoiding pressure.
